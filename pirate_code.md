@@ -42,5 +42,5 @@ XI.   Any man deserting the ship in battle or rewriting history on the
   above, so you get your fair share of the prize!
 
 Captain      : SUHAAS SEHGAL  
-Quartermaster: NAME HERE  
 First mate   : Debaarjun Mukherjee 
+Quartermaster: Eduard  
